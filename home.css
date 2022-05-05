@@ -1,4 +1,81 @@
+header {
+background-color: #5cc19d;
+  text-align: center;
+  font-weight: bold;
+  font-size: 3em
+}
 
+a {
+  display: block;
+  padding: 8px;
+  background-color: #3b66b0;
+  text-align: center;
+  color: white;
+}
+.nav {
+  background-color: #3b66b0;
+ text-align: vertical;
+  color: white;
+   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: left;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+section {
+   font-family: verdana;
+  font-size: 20px;
+  text-align: center;
+  background-color: 3b66b0;
+}
+  
+/* Add a black background color to the top navigation */
+.nav {
+  background-color: black;
+  overflow: hidden;
+  text-align: center;
+}
+
+/* Style the links inside the navigation bar */
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.nav a:hover {
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+/* Add a color to the active/current link */
+.nav a.active {
+  background-color: #04AA6D;
+  color: white;
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .grid-container {
   display: grid;
   row-gap: 50px;
