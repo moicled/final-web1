@@ -29,12 +29,12 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: Luminari, fantasy;
   font-size: 20px;
 }
 
 section {
-   font-family: verdana;
+   font-family: Luminari, fantasy;
   font-size: 20px;
   text-align: center;
   background-color: 3b66b0;
@@ -84,6 +84,7 @@ section {
   grid-template-columns: 2fr 1fr 1fr 200px; 
   grid-template-rows: 1fr 1fr 1fr; 
  border-style: solid;
+  font-family: Luminari, fantasy:
   }
 }
 
@@ -92,9 +93,10 @@ section {
   padding: 20px;
   font-size: 30px;
   text-align: center;
+  font-family: Luminari, fantasy;
 }
  .ul{
-    font-family: Minion Pro;
+    font-family: Luminari, fantasy;
    text-align: center;
   }
   img {
