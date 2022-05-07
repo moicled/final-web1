@@ -72,6 +72,9 @@ section {
   color: white;
   text-align: horizontal;
 }
+li {
+  display: inline-block;
+}
 .center {
   display: block;
   margin-left: auto;
@@ -107,7 +110,6 @@ section {
   padding: 5px;
   max-width: 100%;
   height: auto;
-    allign: center;
 }
 img {
  vertical-align: top;
