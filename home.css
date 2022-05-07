@@ -2,7 +2,8 @@ header {
 background-color: #897788;
   text-align: center;
   font-weight: bold;
-  font-size: 3em
+  font-size: 3em;
+  font-family: Luminari, fantasy;
 }
 
 a {
@@ -26,6 +27,7 @@ a {
 h1 {
   color: white;
   text-align: center;
+  font-family: Luminari, fantasy;
 }
 
 p {
