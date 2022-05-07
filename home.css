@@ -74,6 +74,9 @@ section {
 }
 li {
   display: inline-block;
+   background-color: #897788;
+  font-family: Luminari, fantasy;
+   text-align: center;
 }
 .center {
   display: block;
@@ -103,6 +106,7 @@ li {
  .ul{
     font-family: Luminari, fantasy;
    text-align: center;
+    background-color: #897788;
   }
   img {
    border: 1px solid #ddd;
