@@ -107,6 +107,7 @@ section {
   padding: 5px;
   max-width: 100%;
   height: auto;
+    allign: center;
 }
 img {
  vertical-align: top;
