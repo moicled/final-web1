@@ -105,7 +105,8 @@ section {
    border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  width: 150px;
+  max-width: 100%;
+  height: auto;
 }
 img {
  vertical-align: top;
