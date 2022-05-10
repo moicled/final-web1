@@ -97,7 +97,6 @@ li {
  border-style: solid;
   font-family: Luminari, fantasy:
   }
-}
 
 .grid-item {
   border: 1px solid rgba(0, 0, 0, 0.8);
@@ -120,6 +119,7 @@ li {
 }
 img {
  vertical-align: top;
+  border-radius: 50%;
 }
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
