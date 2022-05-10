@@ -5,6 +5,13 @@ background-color: #897788;
   font-size: 3em;
   font-family: Luminari, fantasy;
 }
+a {
+  display: block;
+  padding: 8px;
+  background-color: #3b66b0;
+  text-align: center;
+  color: white;
+}
 
 #nav {
     position: absolute;
