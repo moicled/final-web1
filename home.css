@@ -6,13 +6,6 @@ background-color: #897788;
   font-family: Luminari, fantasy;
 }
 
-a {
-  display: block;
-  padding: 8px;
-  background-color: #897788;
-  text-align: center;
-  color: white;
-}
 #nav {
     position: absolute;
     left: 0px;
@@ -44,36 +37,6 @@ section {
   background-color: 3b66b0;
 }
   
-/* Add a black background color to the top navigation */
-.nav {
-  background-color: black;
-  overflow: hidden;
-  text-align: center;
-}
-
-/* Style the links inside the navigation bar */
-.nav a {
-  float: left;
-  color: #f2f2f2;
-  text-align: horizontal;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-/* Change the color of links on hover */
-.nav a:hover {
-  background-color: white;
-  color: black;
-  text-align: horizontal;
-}
-
-/* Add a color to the active/current link */
-.nav a.active {
-  background-color: #04AA6D;
-  color: white;
-  text-align: horizontal;
-}
 li {
   display: inline-block;
    background-color: #897788;
