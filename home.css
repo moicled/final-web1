@@ -13,16 +13,18 @@ a {
   text-align: center;
   color: white;
 }
-.nav {
+#nav {
+    position: absolute;
+    left: 0px;
+    height: 40px;
   background-color: #897788;
- text-align: vertical;
-  color: white;
-   list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  float: left;
+    width: 100%;
+    text-align: center;
 }
+#nav ul {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
 
 h1 {
   color: white;
