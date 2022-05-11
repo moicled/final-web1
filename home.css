@@ -4,7 +4,7 @@ background-color: #344566;
   font-weight: bold;
   font-size: 3em;
   font-family: Luminari, fantasy;
-  color: #f9c213
+  color: #f9c213;
 }
 a {
   display: block;
@@ -174,7 +174,7 @@ input[type=submit]:hover {
 footer {
   text-align: center;
   padding: 15px;
-  background-color: #fedd77;
-  color: #344566;
+  background-color: #344566;
+  color: #f9c213;
   font-size: 20px;
 }
