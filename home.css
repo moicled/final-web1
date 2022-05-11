@@ -70,12 +70,14 @@ li {
   padding: 10px;
   grid-template-columns: 2fr 1fr 1fr 200px; 
   grid-template-rows: 1fr 1fr 1fr; 
- border-style: solid;
+ border: 2px solid red;
+  border-radius: 5px;
   font-family: Luminari, fantasy:
   }
 
 .grid-item {
-  border: 1px solid rgba(0, 0, 0, 0.8);
+  border: 2px solid red;
+  border-radius: 5px;
   padding: 20px;
   font-size: 30px;
   text-align: center;
