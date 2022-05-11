@@ -91,6 +91,10 @@ li {
     width:50;
     height:50;
 }
+.menu {
+  width: 200;
+  height: 200;
+}
 .logo {
  vertical-align: center;
    border-radius: 50%;
