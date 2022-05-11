@@ -81,11 +81,10 @@ li {
    text-align: center;
     background-color: #897788;
   }
-  img dragon {
+  img  {
    border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;
-  max-width: 100%;
   height: auto;
 }
 img {
