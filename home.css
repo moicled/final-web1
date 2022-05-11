@@ -95,7 +95,8 @@ li {
   width: 400;
   height: 400;
   vertical-align: center;
-   display: block;
+   margin-left: auto;
+  margin-right: auto;
 }
 .logo {
  vertical-align: center;
