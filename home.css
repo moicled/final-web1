@@ -35,7 +35,9 @@ h1 {
   padding: 20px;
   color: #f9c213;
 }
-
+.container {
+  font-family:Luminari, fantasy;
+}
 p {
   font-family: Luminari, fantasy;
   font-size: 20px;
