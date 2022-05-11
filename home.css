@@ -88,7 +88,7 @@ li {
   height: auto;
 }
 .logo {
- vertical-align: top;
+ vertical-align: center;
    border-radius: 50%;
 }
 /* Style inputs with type="text", select elements and textareas */
