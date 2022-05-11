@@ -94,6 +94,11 @@ li {
 .menu {
   width: 200;
   height: 200;
+  vertical-align: center;
+   padding: 5px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .logo {
  vertical-align: center;
