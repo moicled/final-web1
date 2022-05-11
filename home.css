@@ -90,6 +90,8 @@ li {
 .logo {
  vertical-align: center;
    border-radius: 50%;
+   padding: 5px;
+  height: auto;
 }
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
