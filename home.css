@@ -81,7 +81,7 @@ li {
    border: 1px solid black;
   border-radius: 10px;
   border-color: #96D4D4;
-  border-style: ridge;
+  border-style: double;
   padding: 20px;
   font-size: 30px;
   text-align: center;
