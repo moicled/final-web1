@@ -117,6 +117,7 @@ li {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  height: 50;
 }
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
